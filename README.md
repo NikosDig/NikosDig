@@ -8,7 +8,7 @@
 
  - 💬 Ask me about ... anything
  
- - 📫 How to reach me: Linkdin (https://www.linkedin.com/in/nikos-digalakis-588558209/)
+ - 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/nikos-digalakis-588558209/)
  
  
  
