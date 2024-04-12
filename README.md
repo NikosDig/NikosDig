@@ -1,4 +1,6 @@
- Hi there :bowtie:
+![](https://komarev.com/ghpvc/?username=NikosDig&label=VIEWS)
+
+ i there :bowtie:
  
  I am Nikolaos (Nikos) Digalakis and i am a frontend developer from Chania Greece, currently living in Sarpsborg Norway.
  
@@ -31,4 +33,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=NikosDig&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)  [![Nikos's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikosDig)](https://github.com/anuraghazra/github-readme-stats)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
