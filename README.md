@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=NikosDig&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)  [![Nikos's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikosDig&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nikosDig&theme=dracula)](https://git.io/streak-stats)  [![Nikos's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikosDig&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikosDig)](https://github.com/nikosdig/github-readme-stats)     
