@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NikosDig&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NikosDig&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nikosDig&theme=dracula)](https://git.io/streak-stats)  [![Nikos's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikosDig&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
