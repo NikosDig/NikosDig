@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=NikosDig&label=VIEWS)
 ### Nikos Digalakis
 
-![Profile Picture](link_to_profile_picture)
-
+ <!--![Profile Picture](link_to_profile_picture)
+-->
 Hi there! 👋 I'm Nikos, a passionate full-stack developer proficient in HTML, CSS, JavaScript, Bootstrap, SCSS, and React.
 
 #### Featured Repositories
@@ -11,7 +11,7 @@ Hi there! 👋 I'm Nikos, a passionate full-stack developer proficient in HTML, 
 - [WW](https://github.com/Noroff-FEU-Assignments/project-exam-1-NikosDig): Wonders of the world blog is a project made for the 1st year exam at Noroff educational school. The site is a dark themed blog, made with WP rest api as CMS where you can edit/add/remove each and every blog post as well as adding new ones. The site is responsive and can be used from every device that has a web browser.
 #### Projects
 
-- [Weta]((https://github.com/NikosDig/css-frameworks-ca-1)): social media site created with html bootstrap sass js
+- [Weta](https://github.com/NikosDig/css-frameworks-ca-1): social media site created with html bootstrap sass js
 - [Rainy days]((https://github.com/NikosDig/Rainy-days)): Rainy days is a project targeting men and women aged 30 to 50 whose interests are: being outdoors, hiking, exploring, skiing, camping. The jackets are mid-range in price and emphasize durability and being suitable for a range of different weather types ensuring customers are comfortable whatever adventure they go on.
 
 #### Let's Connect!
