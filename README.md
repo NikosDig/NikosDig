@@ -3,7 +3,7 @@
 
  <!--![Profile Picture](link_to_profile_picture)
 -->
-Hi there! 👋 I'm Nikos, a passionate full-stack developer proficient in HTML, CSS, JavaScript, Bootstrap, SCSS, and React.
+Hi there! 👋 I'm Nikos, a passionate frontend developer proficient in HTML, CSS, JavaScript, Bootstrap, SCSS, and React.
 
 #### Featured Repositories
 
