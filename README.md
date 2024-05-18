@@ -12,7 +12,7 @@ Hi there! 👋 I'm Nikos, a passionate full-stack developer proficient in HTML, 
 #### Projects
 
 - [Weta](https://github.com/NikosDig/css-frameworks-ca-1): social media site created with html bootstrap sass js
-- [Rainy days]((https://github.com/NikosDig/Rainy-days)): Rainy days is a project targeting men and women aged 30 to 50 whose interests are: being outdoors, hiking, exploring, skiing, camping. The jackets are mid-range in price and emphasize durability and being suitable for a range of different weather types ensuring customers are comfortable whatever adventure they go on.
+- [Rainy days](https://github.com/NikosDig/Rainy-days): Rainy days is a project targeting men and women aged 30 to 50 whose interests are: being outdoors, hiking, exploring, skiing, camping. The jackets are mid-range in price and emphasize durability and being suitable for a range of different weather types ensuring customers are comfortable whatever adventure they go on.
 
 #### Let's Connect!
 
